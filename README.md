@@ -12,7 +12,7 @@ To get started with the project, follow these steps:
 
 ## APK Download
 
-You can download the APK file for the app by clicking [here](./Hewa.apk).
+You can download the APK file for the app by clicking [here](./Hewa.apk?raw=true "Hewa.apk").
 
 Please note that the APK file should be located in the root of the project directory.
 
